@@ -4,3 +4,7 @@ gweh lagi nyobain gitignore yang dimana gw ignore beberapa file node yang katany
 
 jadi aing batasin file yang dimasukin ke github
 raawrzzzzzzz
+///////////
+8/3/2024
+testing fork/pull request
+//////////
